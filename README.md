@@ -21,7 +21,7 @@ Each capture session is saved in its own folder, including an **HTML report** wi
 Clone the repository and set up dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/click2html.git
+git clone https://github.com/DaveG7/click2html.git
 cd click2html
 
 python -m venv .venv
